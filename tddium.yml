@@ -1,0 +1,5 @@
+:tddium:
+  :hooks:
+    :pre: npm install
+  :tests:
+    - make test
